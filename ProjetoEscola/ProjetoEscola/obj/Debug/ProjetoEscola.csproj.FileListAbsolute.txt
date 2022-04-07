@@ -1,0 +1,32 @@
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe.config
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.pdb
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.AssemblyReference.cache
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\App.g.cs
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola_MarkupCompile.cache
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola_MarkupCompile.lref
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\MainWindow.baml
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.g.resources
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Properties.Resources.resources
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.GenerateResource.cache
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.CoreCompileInputs.cache
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.exe
+C:\Users\2020102011010-3\Documents\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.pdb
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe.config
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.pdb
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\App.g.cs
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola_MarkupCompile.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola_MarkupCompile.lref
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\MainWindow.baml
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.g.resources
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Properties.Resources.resources
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.exe
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.pdb
